@@ -35,6 +35,3 @@ if num > 0:
     print()
 else:
     print("Enter valid number of players!!")
-
-
-print("This is the end of the world!!")
